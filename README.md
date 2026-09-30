@@ -1,4 +1,4 @@
-# Strength Progress Dashboard
+# Strength Progress Report
 
 An interactive Power BI dashboard built to analyse and visualise strength progression using my personal workout data exported from Hevy.
 
