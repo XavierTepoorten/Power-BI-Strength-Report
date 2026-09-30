@@ -19,7 +19,7 @@ The first page focuses on strength progression and includes:
 - Strength progression over time
 - Dynamic metrics that respond to the selected exercise and date range
 
-![Strength Progress Dashboard](screenshots/strength-overview.png)
+![Strength Progress Dashboard](screenshots/strength-progress.png)
 
 ## Data Preparation
 
